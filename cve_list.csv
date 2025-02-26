@@ -1,141 +1,141 @@
 Date;CVE;Vendor;Product;DateAddedKEV
-2023-10-02;CVE-2023-42115;Exim;Exim;none
-2023-10-02;CVE-2023-42115;Exim;Exim;none
-2023-10-02;CVE-2023-42115;Exim;Exim;none
-2023-10-03;CVE-2023-42115;Exim;Exim;none
-2023-10-03;CVE-2023-42115;Exim;Exim;none
-2023-10-03;CVE-2023-42115;Exim;Exim;none
-2023-10-03;CVE-2023-42115;Exim;Exim;none
-2023-10-17;CVE-2023-20198;Cisco;Cisco IOS XE Software;2023-10-16
-2023-10-17;CVE-2023-20198;Cisco;Cisco IOS XE Software;2023-10-16
-2023-10-23;CVE-2023-42115;Exim;Exim;none
-2023-10-23;CVE-2023-42115;Exim;Exim;none
-2023-10-24;CVE-2023-36745;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 13;none
-2023-10-25;CVE-2023-36745;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 13;none
-2023-10-25;CVE-2023-36745;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 13;none
-2023-10-25;CVE-2023-36745;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 13;none
-2023-10-25;CVE-2023-4966;Citrix;NetScaler ADC;2023-10-18
-2023-10-27;CVE-2021-28482;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 9;none
-2023-10-27;CVE-2022-41082;Microsoft;Microsoft Exchange Server 2013 Cumulative Update 23;2022-09-30
-2023-10-27;CVE-2021-42321;Microsoft;Microsoft Exchange Server 2016 Cumulative Update 21;2021-11-17
-2023-10-27;CVE-2021-26855;Microsoft;Microsoft Exchange Server 2016 Cumulative Update 19;2021-11-03
-2023-10-27;CVE-2021-28482;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 9;none
-2023-10-27;CVE-2022-41082;Microsoft;Microsoft Exchange Server 2013 Cumulative Update 23;2022-09-30
-2023-10-27;CVE-2021-42321;Microsoft;Microsoft Exchange Server 2016 Cumulative Update 21;2021-11-17
-2023-10-27;CVE-2021-26855;Microsoft;Microsoft Exchange Server 2016 Cumulative Update 19;2021-11-03
-2023-10-27;CVE-2021-28482;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 9;none
-2023-10-27;CVE-2022-41082;Microsoft;Microsoft Exchange Server 2013 Cumulative Update 23;2022-09-30
-2023-10-27;CVE-2021-42321;Microsoft;Microsoft Exchange Server 2016 Cumulative Update 21;2021-11-17
-2023-10-27;CVE-2021-26855;Microsoft;Microsoft Exchange Server 2016 Cumulative Update 19;2021-11-03
-2023-11-02;CVE-2023-42115;Exim;Exim;none
-2023-11-05;CVE-2023-38831;RARLAB;WinRAR;2023-08-24
-2023-11-05;CVE-2023-38831;RARLAB;WinRAR;2023-08-24
-2023-11-06;CVE-2023-36884;Microsoft;Windows 10 Version 1809;2023-07-17
-2023-11-10;CVE-2023-36874;Microsoft;Windows 10 Version 1809;2023-07-11
-2023-11-15;CVE-2023-36845;Juniper Networks;Junos OS;2023-11-13
-2023-11-22;CVE-2023-4966;Citrix;NetScaler ADC;2023-10-18
-2023-11-29;CVE-2022-37969;Microsoft;Windows 10 Version 1809;2022-09-14
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-01;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-07;CVE-2023-36394;Microsoft;Windows 10 Version 1809;none
-2023-12-13;CVE-2023-35628;Microsoft;Windows 11 Version 23H2;none
-2023-12-13;CVE-2023-35628;Microsoft;Windows 11 Version 23H2;none
-2023-12-13;CVE-2023-35628;Microsoft;Windows 11 Version 23H2;none
-2023-12-13;CVE-2023-35628;Microsoft;Windows 11 Version 23H2;none
-2023-12-13;CVE-2023-35628;Microsoft;Windows 11 Version 23H2;none
-2023-12-13;CVE-2023-35628;Microsoft;Windows 11 Version 23H2;none
-2024-01-13;CVE-2023-7028;GitLab;GitLab;2024-05-01
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-7027;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-09;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-15;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-15;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-15;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-15;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-15;CVE-2021-40444;Microsoft;Windows 10 Version 1809;2021-11-03
-2024-02-15;CVE-2023-6875;wpexpertsio;POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications;none
-2024-02-16;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-16;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-16;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-16;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-16;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-19;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-20;CVE-2021-42278;Microsoft;Windows Server 2019;2022-04-11
-2024-02-20;CVE-2021-42287;Microsoft;Windows Server 2019;2022-04-11
-2024-02-21;CVE-2024-25600;Codeer Limited;Bricks Builder;none
-2024-02-23;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-23;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-02-23;CVE-2023-21716;Microsoft;Microsoft Office LTSC for Mac 2021;none
-2024-02-27;CVE-2023-36745;Microsoft;Microsoft Exchange Server 2019 Cumulative Update 13;none
-2024-03-01;CVE-2024-23897;Jenkins Project;Jenkins;2024-08-19
-2024-03-01;CVE-2024-23897;Jenkins Project;Jenkins;2024-08-19
-2024-03-27;CVE-2024-1086;Linux;Kernel;2024-05-30
-2024-03-27;CVE-2024-1086;Linux;Kernel;2024-05-30
-2024-03-27;CVE-2024-1086;Linux;Kernel;2024-05-30
-2024-03-28;CVE-2024-1086;Linux;Kernel;2024-05-30
-2024-03-28;CVE-2023-29357;Microsoft;Microsoft SharePoint Server 2019;2024-01-10
-2024-04-03;CVE-2022-41352;Synacor;Zimbra Collaboration Suite (ZCS);2022-10-20
-2024-04-03;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-03;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-03;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-03;CVE-2022-41352;Synacor;Zimbra Collaboration Suite (ZCS);2022-10-20
-2024-04-03;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-03;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-04;CVE-2022-41352;Synacor;Zimbra Collaboration Suite (ZCS);2022-10-20
-2024-04-04;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-04;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-04;CVE-2022-37042;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-04;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-04;CVE-2022-41352;Synacor;Zimbra Collaboration Suite (ZCS);2022-10-20
-2024-04-04;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-04;CVE-2022-27925;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-05;CVE-2022-37042;Synacor;Zimbra Collaboration Suite (ZCS);2022-08-11
-2024-04-08;CVE-2024-27198;JetBrains;TeamCity;2024-03-07
-2024-04-11;CVE-2024-21378;Microsoft;Microsoft Office 2019;none
-2024-04-11;CVE-2024-21378;Microsoft;Microsoft Office 2019;none
-2024-04-11;CVE-2024-21378;Microsoft;Microsoft Office 2019;none
-2024-04-15;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-04-15;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-04-15;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-04-16;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-04-17;CVE-2024-21762;Fortinet;FortiProxy;2024-02-09
-2024-04-18;CVE-2024-21338;Microsoft;Windows 10 Version 1809;2024-03-04
-2024-04-18;CVE-2023-42115;Exim;Exim;none
-2024-05-03;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-05-03;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-05-03;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-03;CVE-2024-21762;Fortinet;FortiProxy;2024-02-09
-2024-05-03;CVE-2024-1709;ConnectWise;ScreenConnect;2024-02-22
-2024-05-03;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-05-03;CVE-2024-1709;ConnectWise;ScreenConnect;2024-02-22
-2024-05-03;CVE-2024-1709;ConnectWise;ScreenConnect;2024-02-22
-2024-05-03;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-03;CVE-2024-21413;Microsoft;Microsoft Office 2019;2025-02-06
-2024-05-04;CVE-2024-26169;Microsoft;Windows 10 Version 1809;2024-06-13
-2024-05-04;CVE-2024-26169;Microsoft;Windows 10 Version 1809;2024-06-13
-2024-05-04;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-04;CVE-2024-26169;Microsoft;Windows 10 Version 1809;2024-06-13
-2024-05-04;CVE-2024-26169;Microsoft;Windows 10 Version 1809;2024-06-13
-2024-05-21;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-21;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-21;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-21;CVE-2024-3400;Palo Alto Networks;PAN-OS;2024-04-12
-2024-05-23;CVE-2024-21683;REJECTED;REJECTED;none
-2024-05-28;CVE-2024-23108;Fortinet;FortiSIEM;none
-2024-06-04;CVE-2024-24919;checkpoint;Check Point Quantum Gateway, Spark Gateway and CloudGuard Network;2024-05-30
-2024-06-04;CVE-2024-24919;checkpoint;Check Point Quantum Gateway, Spark Gateway and CloudGuard Network;2024-05-30
-2024-06-04;CVE-2024-24919;checkpoint;Check Point Quantum Gateway, Spark Gateway and CloudGuard Network;2024-05-30
-2024-06-04;CVE-2024-24919;checkpoint;Check Point Quantum Gateway, Spark Gateway and CloudGuard Network;2024-05-30
+2023-10-02;CVE-2023-42115;"Exim";"Exim";none
+2023-10-02;CVE-2023-42115;"Exim";"Exim";none
+2023-10-02;CVE-2023-42115;"Exim";"Exim";none
+2023-10-03;CVE-2023-42115;"Exim";"Exim";none
+2023-10-03;CVE-2023-42115;"Exim";"Exim";none
+2023-10-03;CVE-2023-42115;"Exim";"Exim";none
+2023-10-03;CVE-2023-42115;"Exim";"Exim";none
+2023-10-17;CVE-2023-20198;"Cisco";"Cisco IOS XE Software";2023-10-16
+2023-10-17;CVE-2023-20198;"Cisco";"Cisco IOS XE Software";2023-10-16
+2023-10-23;CVE-2023-42115;"Exim";"Exim";none
+2023-10-23;CVE-2023-42115;"Exim";"Exim";none
+2023-10-24;CVE-2023-36745;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 13";none
+2023-10-25;CVE-2023-36745;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 13";none
+2023-10-25;CVE-2023-36745;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 13";none
+2023-10-25;CVE-2023-36745;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 13";none
+2023-10-25;CVE-2023-4966;"Citrix";"NetScaler ADC";2023-10-18
+2023-10-27;CVE-2022-41082;"Microsoft";"Microsoft Exchange Server 2013 Cumulative Update 23";2022-09-30
+2023-10-27;CVE-2021-28482;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 9";none
+2023-10-27;CVE-2021-42321;"Microsoft";"Microsoft Exchange Server 2016 Cumulative Update 21";2021-11-17
+2023-10-27;CVE-2021-26855;"Microsoft";"Microsoft Exchange Server 2016 Cumulative Update 19";2021-11-03
+2023-10-27;CVE-2022-41082;"Microsoft";"Microsoft Exchange Server 2013 Cumulative Update 23";2022-09-30
+2023-10-27;CVE-2021-28482;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 9";none
+2023-10-27;CVE-2021-42321;"Microsoft";"Microsoft Exchange Server 2016 Cumulative Update 21";2021-11-17
+2023-10-27;CVE-2021-26855;"Microsoft";"Microsoft Exchange Server 2016 Cumulative Update 19";2021-11-03
+2023-10-27;CVE-2022-41082;"Microsoft";"Microsoft Exchange Server 2013 Cumulative Update 23";2022-09-30
+2023-10-27;CVE-2021-28482;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 9";none
+2023-10-27;CVE-2021-42321;"Microsoft";"Microsoft Exchange Server 2016 Cumulative Update 21";2021-11-17
+2023-10-27;CVE-2021-26855;"Microsoft";"Microsoft Exchange Server 2016 Cumulative Update 19";2021-11-03
+2023-11-02;CVE-2023-42115;"Exim";"Exim";none
+2023-11-05;CVE-2023-38831;"RARLAB";"WinRAR";2023-08-24
+2023-11-05;CVE-2023-38831;"RARLAB";"WinRAR";2023-08-24
+2023-11-06;CVE-2023-36884;"Microsoft";"Windows 10 Version 1809";2023-07-17
+2023-11-10;CVE-2023-36874;"Microsoft";"Windows 10 Version 1809";2023-07-11
+2023-11-15;CVE-2023-36845;"Juniper Networks";"Junos OS";2023-11-13
+2023-11-22;CVE-2023-4966;"Citrix";"NetScaler ADC";2023-10-18
+2023-11-29;CVE-2022-37969;"Microsoft";"Windows 10 Version 1809";2022-09-14
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-01;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-07;CVE-2023-36394;"Microsoft";"Windows 10 Version 1809";none
+2023-12-13;CVE-2023-35628;"Microsoft";"Windows 11 Version 23H2";none
+2023-12-13;CVE-2023-35628;"Microsoft";"Windows 11 Version 23H2";none
+2023-12-13;CVE-2023-35628;"Microsoft";"Windows 11 Version 23H2";none
+2023-12-13;CVE-2023-35628;"Microsoft";"Windows 11 Version 23H2";none
+2023-12-13;CVE-2023-35628;"Microsoft";"Windows 11 Version 23H2";none
+2023-12-13;CVE-2023-35628;"Microsoft";"Windows 11 Version 23H2";none
+2024-01-13;CVE-2023-7028;"GitLab";"GitLab";2024-05-01
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-7027;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-09;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-15;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-15;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-15;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-15;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-15;CVE-2021-40444;"Microsoft";"Windows 10 Version 1809";2021-11-03
+2024-02-15;CVE-2023-6875;"wpexpertsio";"POST SMTP – The #1 WordPress SMTP Plugin with Advanced Email Logging and Delivery Failure Notifications";none
+2024-02-16;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-16;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-16;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-16;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-16;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-19;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-20;CVE-2021-42278;"Microsoft";"Windows Server 2019";2022-04-11
+2024-02-20;CVE-2021-42287;"Microsoft";"Windows Server 2019";2022-04-11
+2024-02-21;CVE-2024-25600;"Codeer Limited";"Bricks Builder";none
+2024-02-23;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-23;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-02-23;CVE-2023-21716;"Microsoft";"Microsoft Office LTSC for Mac 2021";none
+2024-02-27;CVE-2023-36745;"Microsoft";"Microsoft Exchange Server 2019 Cumulative Update 13";none
+2024-03-01;CVE-2024-23897;"Jenkins Project";"Jenkins";2024-08-19
+2024-03-01;CVE-2024-23897;"Jenkins Project";"Jenkins";2024-08-19
+2024-03-27;CVE-2024-1086;"Linux";"Kernel";2024-05-30
+2024-03-27;CVE-2024-1086;"Linux";"Kernel";2024-05-30
+2024-03-27;CVE-2024-1086;"Linux";"Kernel";2024-05-30
+2024-03-28;CVE-2024-1086;"Linux";"Kernel";2024-05-30
+2024-03-28;CVE-2023-29357;"Microsoft";"Microsoft SharePoint Server 2019";2024-01-10
+2024-04-03;CVE-2022-41352;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-10-20
+2024-04-03;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-03;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-03;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-03;CVE-2022-41352;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-10-20
+2024-04-03;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-03;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-04;CVE-2022-41352;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-10-20
+2024-04-04;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-04;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-04;CVE-2022-37042;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-04;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-04;CVE-2022-41352;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-10-20
+2024-04-04;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-04;CVE-2022-27925;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-05;CVE-2022-37042;"Synacor";"Zimbra Collaboration Suite (ZCS)";2022-08-11
+2024-04-08;CVE-2024-27198;"JetBrains";"TeamCity";2024-03-07
+2024-04-11;CVE-2024-21378;"Microsoft";"Microsoft Office 2019";none
+2024-04-11;CVE-2024-21378;"Microsoft";"Microsoft Office 2019";none
+2024-04-11;CVE-2024-21378;"Microsoft";"Microsoft Office 2019";none
+2024-04-15;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-04-15;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-04-15;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-04-16;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-04-17;CVE-2024-21762;"Fortinet";"FortiProxy";2024-02-09
+2024-04-18;CVE-2024-21338;"Microsoft";"Windows 10 Version 1809";2024-03-04
+2024-04-18;CVE-2023-42115;"Exim";"Exim";none
+2024-05-03;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-05-03;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-05-03;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-03;CVE-2024-21762;"Fortinet";"FortiProxy";2024-02-09
+2024-05-03;CVE-2024-1709;"ConnectWise";"ScreenConnect";2024-02-22
+2024-05-03;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-05-03;CVE-2024-1709;"ConnectWise";"ScreenConnect";2024-02-22
+2024-05-03;CVE-2024-1709;"ConnectWise";"ScreenConnect";2024-02-22
+2024-05-03;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-03;CVE-2024-21413;"Microsoft";"Microsoft Office 2019";2025-02-06
+2024-05-04;CVE-2024-26169;"Microsoft";"Windows 10 Version 1809";2024-06-13
+2024-05-04;CVE-2024-26169;"Microsoft";"Windows 10 Version 1809";2024-06-13
+2024-05-04;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-04;CVE-2024-26169;"Microsoft";"Windows 10 Version 1809";2024-06-13
+2024-05-04;CVE-2024-26169;"Microsoft";"Windows 10 Version 1809";2024-06-13
+2024-05-21;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-21;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-21;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-21;CVE-2024-3400;"Palo Alto Networks";"PAN-OS";2024-04-12
+2024-05-23;CVE-2024-21683;"REJECTED";"REJECTED";none
+2024-05-28;CVE-2024-23108;"Fortinet";"FortiSIEM";none
+2024-06-04;CVE-2024-24919;"checkpoint";"Check Point Quantum Gateway, Spark Gateway and CloudGuard Network";2024-05-30
+2024-06-04;CVE-2024-24919;"checkpoint";"Check Point Quantum Gateway, Spark Gateway and CloudGuard Network";2024-05-30
+2024-06-04;CVE-2024-24919;"checkpoint";"Check Point Quantum Gateway, Spark Gateway and CloudGuard Network";2024-05-30
+2024-06-04;CVE-2024-24919;"checkpoint";"Check Point Quantum Gateway, Spark Gateway and CloudGuard Network";2024-05-30
