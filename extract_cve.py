@@ -35,7 +35,7 @@ def fetch_kev_catalog():
 def extract_cve(text):
     if not text:
         return set()
-    return set(re.findall(CVE_REGEX, text))  # Use set to remove duplicates
+    return set(re.findall(CVE_REGEX, text, re.IGNORECASE))  # Use set to remove duplicates
 
 # Convert timestamps into dates (YYYY-MM-DD)
 def extract_date(timestamp):
@@ -90,12 +90,13 @@ def process_json_files(input_folder, output_file):
             
             # Parses all Date/CVE lines to extract context about vulnerable product and exploitation status
             for date, cve in results:
-                
+                cve=cve.upper()
                 # Exploitation status imported from KEV list
                 kev_info = kev_catalog.get(cve, {})
                 # product information imported from circl.lu
                 cve_dump = json.dumps(cve_json.id(cve))
-                
+                if cve == "CVE-2022-27925":
+                    print(cve_dump)
                 # Sometimes the vulnerability has been rejected (false positive) and will not contain vendor or product information
                 if json.loads(cve_dump)["cveMetadata"]["state"] != "REJECTED":
                     vendor = json.loads(cve_dump)["containers"]["cna"]["affected"][0]["vendor"]
@@ -109,11 +110,14 @@ def process_json_files(input_folder, output_file):
                     vendor = kev_info.get("vendor", "none")
                 if product == "n/a" and date_added != "none" :
                     product = kev_info.get("product", "none")
-                csv.write(f'{date};{cve};"{vendor}";"{product}";{date_added}\n')
+                csv.write(f'{date};{cve.upper()};"{vendor}";"{product}";{date_added}\n')
 
         print(f"Extraction complete. Data saved to {output_file}")
     else:
         print("No CVE found in the dataset.")
+
+
+
 
 if __name__ == "__main__":
     # Argument parsing
