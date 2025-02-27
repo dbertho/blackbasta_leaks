@@ -86,31 +86,31 @@ def process_json_files(input_folder, output_file):
         results.sort(key=lambda x: x[0])  
 
         with open(output_file, "w", encoding="utf-8") as csv:
-            csv.write("Date;CVE;Vendor;Product;DateAddedKEV\n")
+            csv.write("MessageDate;CVE;Vendor;Product;DatePublished;DateAddedKEV\n")
             
             # Parses all Date/CVE lines to extract context about vulnerable product and exploitation status
             for date, cve in results:
                 cve=cve.upper()
                 # Exploitation status imported from KEV list
                 kev_info = kev_catalog.get(cve, {})
-                # product information imported from circl.lu
+                # General information imported from circl.lu
                 cve_dump = json.dumps(cve_json.id(cve))
-                if cve == "CVE-2022-27925":
-                    print(cve_dump)
                 # Sometimes the vulnerability has been rejected (false positive) and will not contain vendor or product information
                 if json.loads(cve_dump)["cveMetadata"]["state"] != "REJECTED":
                     vendor = json.loads(cve_dump)["containers"]["cna"]["affected"][0]["vendor"]
                     product = json.loads(cve_dump)["containers"]["cna"]["affected"][0]["product"]
+                    datePublished = json.loads(cve_dump)["cveMetadata"]["datePublished"]
                 else:
                     vendor = "REJECTED"
                     product = "REJECTED"
+                    datePublished = "REJECTED"
                 
                 date_added = kev_info.get("dateAdded", "none")
                 if vendor == "n/a" and date_added != "none" :
                     vendor = kev_info.get("vendor", "none")
                 if product == "n/a" and date_added != "none" :
                     product = kev_info.get("product", "none")
-                csv.write(f'{date};{cve.upper()};"{vendor}";"{product}";{date_added}\n')
+                csv.write(f'{date};{cve.upper()};"{vendor}";"{product}";{datePublished[:10]};{date_added}\n')
 
         print(f"Extraction complete. Data saved to {output_file}")
     else:
