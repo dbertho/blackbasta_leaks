@@ -9,6 +9,7 @@ This repository contains the original leaked file and an analysis of the chats. 
 - **Data Files**:
   - `blackbasta_chat_logs.zip`: Raw chat logs from the BlackBasta ransomware group.
   - `bestflowers_clean.zip`: Cleaned-up (valid) non-translated JSON file.
+  - `bestflowers_translated.zip`: JSON file translated in English (translation with Google Translate, not particularly accurate).
   - `cve_list.csv`: List of CVEs mentioned in the leak, and some context, including date of publication and addition to the CISA KEV list.
   - `rmm.csv`: List of Remote Monitoring and Management (RMM) tools mentioned in the leak.
   - `user_activity.csv`: User activity logs.
