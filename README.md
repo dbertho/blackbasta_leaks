@@ -17,3 +17,5 @@ This repository contains the original leaked file and an analysis of the chats. 
 - **Scripts**:
   - `extract_cve.py`: Script to extract CVE information from the chat logs.
   - `translator.py`: Script to translate chat logs into English, using the Google Translate API.
+
+Scripts modified from https://github.com/Casualtek/BlackBasta-leaks
